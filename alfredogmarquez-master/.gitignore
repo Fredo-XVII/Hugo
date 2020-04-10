@@ -1,0 +1,7 @@
+
+blogdown/
+Thumbs.db
+
+# R files
+.RData
+.Rproj.user/
